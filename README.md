@@ -1,17 +1,13 @@
-# SpinxTutorial
-Install [mini-conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html) for linux as conda env is better suited to install packages such as pandoc. 
-- conda config --set auto_activate_base false (__deactivating base is autocall is good)
-- conda env create -f readthedocs-environment.yml
-- conda activate <environment_name>
-- conda deactivate
-- conda env update -f readthedocs-environment.yml
-### For Jupyther Notebooks
-pip install nbsphinx
+# LearnAI
+This is a repo containing some useful fundamentals and code snippets to Learn DataScience. 
 
 
-### Links for references . 
-- [Using conda build config](https://docs.readthedocs.io/en/stable/guides/conda.html)
-- [ Building Jupyter notebook html by using nbsphinx and conda install pandoc (**Only works with conda and not pip**) ](https://jeanbilheux.pages.ornl.gov/post/convert_notebooks_to_html_pages/ )
+# Data Links 
+https://www.kaggle.com/harlfoxem/housesalesprediction/version/1 
 
-### Adding .venv python virtual environment file 
--to save unwanted errors for other repository deriving out from this base repo. 
+### Climate and Environment related data files 
+
+
+# Link for learning feature engineering , very nice 
+https://spark.apache.org/docs/latest/ml-features 
+

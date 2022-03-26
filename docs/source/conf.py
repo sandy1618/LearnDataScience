@@ -64,7 +64,7 @@ html_theme_options = {
   "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/sandy1618/LearnPython",
+            "url": "https://github.com/sandy1618/LearnDataScience",
             "icon": "fab fa-github-square",
             "type": "fontawesome",
         },
