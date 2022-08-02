@@ -18,6 +18,7 @@ Concepts, CookBooks, CaseStudies and Tutorials.
    :caption: Contents:
 
    Notebooks/SaveSoil/index
+   Notebooks/CookBooks/index
 
 
    
