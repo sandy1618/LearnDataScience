@@ -108,3 +108,4 @@ extensions = [
 # html_theme = 'furo'
 
 # source_suffix = ['.rst', '.ipynb']
+nbsphinx_allow_errors = True
