@@ -50,7 +50,7 @@ exclude_patterns = []
 # html_theme = 'sphinx_rtd_theme'
 html_theme = "pydata_sphinx_theme"
 
-html_title = 'Learn Python'
+html_title = 'Learn DataScience'
 # html_short_title = 'Learn Python'
 # html_logo = "_static/logo_passion.jpg"
 
